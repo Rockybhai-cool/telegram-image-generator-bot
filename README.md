@@ -8,5 +8,5 @@ A Telegram bot that generates images based on user input. Users can request vari
 # Technologies Used
 • Python: The core programming language used to build the bot <br>
 • python-telegram-bot: A Python wrapper for the Telegram Bot API <br>
-• Unsplash API - Provides high-quality images based on search keywords.
+• Unsplash API - Provides high-quality images based on search keywords. <br>
 • dotenv - Securely manages sensitive information through environment variables.
