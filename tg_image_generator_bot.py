@@ -11,7 +11,7 @@ load_dotenv()
 
 # Secure sensitive information using environment variables
 TOKEN: Final = os.getenv('TELEGRAM_BOT_TOKEN')
-BOT_USERNAME: Final = '@Image_Generator45_Bot'
+BOT_USERNAME: Final = '@Movie_Piratess_bot'
 ACCESS_KEY: Final = os.getenv('UNSPLASH_ACCESS_KEY')
 
 if not TOKEN:
